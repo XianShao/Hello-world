@@ -1,2 +1,3 @@
 # Hello-world
-just a try
+试一试
+hello every firends,now I'm coming
